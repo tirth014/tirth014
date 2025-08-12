@@ -1,17 +1,16 @@
 <h2 align="left">Hi 👋! My name is Tirth and I'm a Front-end Developer from Ontario, Canada. </h2>
+###
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/48802492/127487351-35d01713-0cad-4cd9-a11c-0972f96d76ce.gif" height="200px" role="presentation" />
 
 ###
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tirth014&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth014&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-  <img src="https://user-images.githubusercontent.com/48802492/127487351-35d01713-0cad-4cd9-a11c-0972f96d76ce.gif" height="150px" role="presentation" />
-  
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
