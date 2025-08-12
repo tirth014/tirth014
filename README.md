@@ -1,7 +1,31 @@
-# 👋 Hi, I'm Tirth!
-👩🏻‍💻 Full-Stack Web Developer<br/>
+<h2 align="left">Hi 👋! My name is Tirth and I'm a Front-end Developer from Ontario, Canada. </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth014&layout=compact)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tirth014&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth014&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+  <img src="https://user-images.githubusercontent.com/48802492/127487351-35d01713-0cad-4cd9-a11c-0972f96d76ce.gif" height="150px" role="presentation" />
+  
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
