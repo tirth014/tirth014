@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tirth and I'm a Front-end Developer from Ontario, Canada. </h2>
+<h2 align="left">Hi 👋! I'm a Front-end Developer from Ontario, Canada. </h2>
 
 <div align="center">
 
