@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a Web Dev from Ontario, Canada. </h2>
+<h2 align="left">Hi 👋! I'm an IT Support professional/Web Dev from Ontario, Canada. </h2>
 
 <div align="center">
 
